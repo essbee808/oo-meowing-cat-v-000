@@ -1,1 +1,1 @@
-## code your solution here. 
+Cat.new =  "Maru"
