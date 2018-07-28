@@ -1,1 +1,1 @@
-Cat.new =  "Maru"
+class Cat
